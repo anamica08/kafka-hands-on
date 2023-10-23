@@ -1,4 +1,4 @@
-package guru.learningjournal.kafka.examples;
+package self.learningjournal.kafka.examples;
 
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;

@@ -1,4 +1,4 @@
-package guru.learningjournal.kafka.examples;
+package self.learningjournal.kafka.examples;
 
 class AppConfigs {
     final static String applicationID = "StorageDemo";
